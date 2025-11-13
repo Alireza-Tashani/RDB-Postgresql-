@@ -9,3 +9,6 @@ for the *Personal Health and Nutrition System (FitLife)* project.
 
 👉 [Go to Extract_Entities Document](./Doc/Extract_Entities.md)
 
+👉 [Go to Extract_Entities Document](./Doc/Diagram_2.jpg)
+
+
